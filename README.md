@@ -1,2 +1,7 @@
 # Darius Briggs
-## Data Analyst
+### Data Analyst
+
+#### Tech Stack
+##### Python
+###### Pandas and Spacy libaries
+###### Data manipulation and Visualisation
